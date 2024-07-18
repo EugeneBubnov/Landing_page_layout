@@ -1,2 +1,3 @@
-﻿# Landing_page_layout
+﻿# Landing_page_layout 
+ Only for size: 14''(1920 × 1080)
 https://eugenebubnov.github.io/Landing_page_layout
