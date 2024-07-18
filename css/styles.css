@@ -1,7 +1,7 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css");
 
 .main-header {
-  background: url("https://eugenebubnov.github.io/Landing_page_layout/images/Rectangle.svg");
+  background: url("/images/Rectangle.svg");
   display: flex;
   padding-top: 10px;
   padding-bottom: 10px;
